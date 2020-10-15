@@ -9,3 +9,4 @@ Written in C++ using Qt 5 framework.
 - HTML color list.
 
 # Gallery
+![](https://github.com/MarkLagodych/assets/blob/main/ColorPicker/1.png?raw=true)
