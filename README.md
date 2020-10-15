@@ -10,3 +10,5 @@ Written in C++ using Qt 5 framework.
 
 # Gallery
 ![](https://github.com/MarkLagodych/assets/blob/main/ColorPicker/1.png?raw=true)
+![](https://github.com/MarkLagodych/assets/blob/main/ColorPicker/2.png?raw=true)
+![](https://github.com/MarkLagodych/assets/blob/main/ColorPicker/3.png?raw=true)
